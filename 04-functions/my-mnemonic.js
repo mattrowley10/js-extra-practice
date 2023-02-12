@@ -10,7 +10,7 @@
 // YOUR CODE BELOW
 //** Ask why I am unable to input my own values!!
 function myMnemonic(str1 = `Coding`, str2 = `Is`, str3 = `Super`, str4 = `Fun`){ // parameter === a string / not THE string values... how do I implement the string values?
-    let mnemonic = ``;// <== here i 'could' input string values? NOPE
+    let mnemonic = ``;// <== here i 'could' input string values? NOPEeeeeeee
     
      if (str1){
         mnemonic += str1[0];
