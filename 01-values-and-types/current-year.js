@@ -8,3 +8,4 @@ EX: 2000 + 18 - 2 * 1;
 */
 
 // YOUR CODE BELOW
+console.log(200 * 10 + 20 + 3);

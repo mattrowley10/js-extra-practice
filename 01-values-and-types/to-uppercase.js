@@ -6,3 +6,4 @@ EX: "apples".toUpperCase() OUTPUT: "APPLES"
 */
 
 // YOUR CODE BELOW
+console.log("matthew rowley".toUpperCase())

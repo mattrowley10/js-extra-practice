@@ -6,6 +6,6 @@ let num2 = 385;
 let num3 = 779;
 
 // YOUR CODE BELOW
-
+const myFirstSum = 854 + 385 + 779;
 // Do not change the code below
 module.exports = { myFirstSum };

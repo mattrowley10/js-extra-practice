@@ -7,7 +7,9 @@
 
 // Create a third variable, havingFun.
 // - Assign havingFun a boolean value that reflects whether or not you're having fun!
-
+let myFirstName = "Matthew";
+let myFavoriteNum = 7;
+let havingFun = Boolean(true);
 // YOUR CODE BELOW
 
 // Do not change the code below
